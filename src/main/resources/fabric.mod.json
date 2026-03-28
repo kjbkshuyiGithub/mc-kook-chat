@@ -3,15 +3,20 @@
 	"id": "mc-kook-chat",
 	"version": "${version}",
 	"name": "McKookChat",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Fabric mod that bridges Minecraft server chat with KooK platform.",
 	"authors": [
-		"Me!"
+		"McBlocker"
+	],
+	"contributors": [
+		"shuaihanya",
+		"HaiCheng MTR Server Team"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/kjbkshuyiGithub/mc-kook-chat",
+		"sources": "https://github.com/kjbkshuyiGithub/mc-kook-chat",
+		"issues": "https://github.com/kjbkshuyiGithub/mc-kook-chat/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache-2.0",
 	"icon": "assets/mc-kook-chat/icon.png",
 	"environment": "*",
 	"entrypoints": {

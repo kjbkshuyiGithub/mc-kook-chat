@@ -5,6 +5,8 @@ import net.fabricmc.api.ClientModInitializer;
 public class McKookChatClient implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
-		// This entrypoint is suitable for setting up client-specific logic, such as rendering.
+		// Client-side initialization
+		// /kook-link command is registered server-side so it works in both
+		// single-player and multiplayer scenarios
 	}
 }
